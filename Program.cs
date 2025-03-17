@@ -8,7 +8,7 @@ namespace Vjezba1
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Novi");
-
+            Console.WriteLine("Promjena");
         }
     }
 }
